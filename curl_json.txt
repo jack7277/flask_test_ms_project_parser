@@ -1,0 +1,3 @@
+d:\curl\bin\curl --header "Content-Type: application/json" --request POST --data "{\"uid\":9,\"project_name\":\"Februar_Test1\",\"task_name\":\"Task Name\",\"step_name\":\"Step Name\",\"user_working\":\"i.breikin@gmail.com\",\"is_complete\":\"False\",\"actual_work\":\"2.5\",\"additional_time\":\"10\",\"task_note\":\"Test note\",\"actual_start\":\"10.10.2020 17:00:00\",\"actual_finish\":\"20.20.2020 18:00:00\",\"security_token\":\"Secret Token\"}" http://localhost:5000/set/timejet.com
+
+,\"u\":\"U\"
